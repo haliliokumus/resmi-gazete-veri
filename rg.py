@@ -30,7 +30,8 @@ ATLA = ("ÖNCEKİ", "SONRAKİ", "PDF", "ARŞİV", "TÜMÜ")
 
 
 def ust(s):
-    return s.replace("i", "İ").replace("ı", "I").upper()
+    s = s.replace("i", "İ").replace("ı", "I").upper()
+    return s.replace("Â", "A").replace("Î", "İ").replace("Û", "U")
 
 
 def kucuk(s):
@@ -120,13 +121,12 @@ def ayristir(html, taban):
     p = Akis()
     p.feed(html)
     p.close()
+    if os.environ.get("RG_DEBUG"):
+        print([o for o in p.olaylar if "ay" in o[-1].lower()][:8])
     bolumler, bolum, grup, sayi = [], None, None, None
     for o in p.olaylar:
         if o[0] == "metin":
             t = o[1]
-            m = re.search(r"Sayı\s*:?\s*(\d{4,6})", t)
-            if m and not sayi:
-                sayi = int(m.group(1))
             U = ust(t)
             if any(U.startswith(d) for d in DURDUR):
                 if bolum:
@@ -158,6 +158,10 @@ def ayristir(html, taban):
                 bolum["gruplar"].append(grup)
             if not any(m["url"] == url and m["baslik"] == t for m in grup["maddeler"]):
                 grup["maddeler"].append({"baslik": t, "url": url})
+    duz = " ".join(o[-1] for o in p.olaylar)
+    m = re.search(r"Say[ıiIİ]\s*:?\s*(\d{2}[.\s]?\d{3})\b", duz)
+    if m:
+        sayi = int(re.sub(r"\D", "", m.group(1)))
     for b in bolumler:
         b["gruplar"] = [g for g in b["gruplar"] if g["maddeler"]]
     bolumler = [b for b in bolumler if b["gruplar"]]
