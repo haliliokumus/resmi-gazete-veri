@@ -33,7 +33,6 @@ jobs:
       - name: Çek
         env:
           TARIH: ${{ github.event.inputs.tarih }}
-          RG_DEBUG: ${{ github.event_name == 'push' && '1' || '' }}
         run: |
           if [ -n "$TARIH" ]; then
             python rg.py "$TARIH"
