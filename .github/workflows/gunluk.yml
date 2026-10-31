@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
     inputs:
       tarih:
-        description: "Tarih (YYYY-MM-DD). Boş bırakılırsa bugün ve dün."
+        description: "Tarih(ler) (YYYY-MM-DD, boşlukla ayrılmış). Boş bırakılırsa bugün ve dün."
         required: false
   push:
     branches: [main]
@@ -35,7 +35,7 @@ jobs:
           TARIH: ${{ github.event.inputs.tarih }}
         run: |
           if [ -n "$TARIH" ]; then
-            python rg.py "$TARIH"
+            for t in $TARIH; do python rg.py "$t" || echo "$t alınamadı"; done
           else
             DUN=$(TZ=Europe/Istanbul date -d yesterday +%F)
             python rg.py "$DUN" || echo "Dünkü sayı alınamadı, devam ediliyor"
