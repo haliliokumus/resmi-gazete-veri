@@ -1,8 +1,9 @@
 {
  "tarih": "2026-10-30",
  "tarih_metin": "30 Ekim 2026",
- "sayi": null,
+ "sayi": 33415,
  "kaynak": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261030.htm",
+ "pdf": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261030.pdf",
  "bolumler": [
   {
    "ad": "Yürütme ve İdare Bölümü",
@@ -66,5 +67,5 @@
    ]
   }
  ],
- "guncellendi": "2026-10-31T23:11+03:00"
+ "guncellendi": "2026-10-31T23:13+03:00"
 }
