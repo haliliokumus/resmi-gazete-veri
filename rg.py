@@ -121,6 +121,50 @@ def ayristir(html, taban):
     p = Akis()
     p.feed(html)
     p.close()
+    bolumler, bolum, grup, sayi = [], None, None, None
+    for o in p.olaylar:
+        if o[0] == "metin":
+            t = o[1]
+            U = ust(t)
+            if any(U.startswith(d) for d in DURDUR):
+                if bolum:
+                    bolum = None
+                if bolumler:
+                    break
+                continue
+            hit = next((ad for k, ad in ALINACAK.items() if U.startswith(k)), None)
+            if hit:
+                bolum = next((b for b in bolumler if b["ad"] == hit), None)
+                if not bolum:
+                    bolum = {"ad": hit, "gruplar": []}
+                    bolumler.append(bolum)
+                grup = None
+                continue
+            # Alt başlık: linksiz, tamamı büyük harf, kısa satır (YÖNETMELİKLER, KURUL KARARI ...)
+            if bolum and len(t) <= 80 and t == ust(t) and re.search(r"[A-ZÇĞİÖŞÜ]{3}", t):
+                grup = {"ad": baslikla(t), "maddeler": []}
+                bolum["gruplar"].append(grup)
+        else:
+            _, href, t = o
+            if not bolum or not href or ust(t) in ATLA or href.startswith(("#", "javascript")):
+                continue
+            url = urljoin(taban, href)
+            if "resmigazete.gov.tr" not in url:
+                continue
+            if grup is None:
+                grup = {"ad": "Diğer", "maddeler": []}
+                bolum["gruplar"].append(grup)
+            if not any(m["url"] == url and m["baslik"] == t for m in grup["maddeler"]):
+                grup["maddeler"].append({"baslik": t, "url": url})
+    duz = " ".join(o[-1] for o in p.olaylar)
+    m = (re.search(r"(\d{4,6})\s*Sayılı\s*Resm", duz)
+         or re.search(r"Say[ıiIİ]\s*:?\s*(\d{2}[.\s]?\d{3})\b", duz))
+    if m:
+        sayi = int(re.sub(r"\D", "", m.group(1)))
+    for b in bolumler:
+        b["gruplar"] = [g for g in b["gruplar"] if g["maddeler"]]
+    bolumler = [b for b in bolumler if b["gruplar"]]
+    return bolumler, sayi
 
 
 def cek(gun):
