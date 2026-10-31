@@ -1,0 +1,148 @@
+https://www.resmigazete.gov.tr/eskiler/2026/10/20261030.htm
+[('metin', '30 Ekim 2026'), ('metin', 'Tarihli ve 33415 Sayılı Resmî Gazete'), ('metin', 'MEVZUAT'), ('metin', 'YÜRÜTME VE İDARE BÖLÜMÜ'), ('metin', 'YÖNETMELİKLER'), ('link', '20261030-1.htm', 'Avrasya Üniversitesi Ağız ve Diş Sağlığı Uygulama ve Araştırma Merkezi Yönetmeliği'), ('link', '20261030-2.htm', 'Avrasya Üniversitesi Fizyoterapi ve Rehabilitasyon Uygulama ve Araştırma Merkezi Yönetmeliği'), ('metin', 'TEBLİĞ'), ('link', '20261030-3.htm', 'Yapı Sahipleri ile Yapı Denetimi Hizmet Sözleşmesi İmzalayacak Yapı Denetim Kuruluşlarının Elektronik Ortamda Belirlenmesine İlişkin Usul ve Esaslara Dair Tebliğde Değişiklik Yapılması Hakkında Tebliğ'), ('metin', 'YARGI BÖLÜMÜ'), ('metin', 'ANAYASA MAHKEMESİ KARARLARI'), ('link', '20261030-4.pdf', 'Anayasa Mahkemesinin 5/5/2026 Tarihli ve 2021/32883 Başvuru Numaralı Kararı'), ('link', '20261030-5.pdf', 'Anayasa Mahkemesinin 18/5/2026 Tarihli ve 2021/22795 Başvuru Numaralı Kararı'), ('link', '20261030-6.pdf', 'Anayasa Mahkemesinin 18/6/2026 Tarihli ve 2021/22462 Başvuru Numaralı Kararı'), ('link', '20261030-7.pdf', 'Anayasa Mahkemesinin 16/9/2026 Tarihli ve 2020/7753 Başvuru Numaralı Kararı'), ('link', '20261030-8.pdf', 'Anayasa Mahkemesinin 16/9/2026 Tarihli ve 2021/1112 Başvuru Numaralı Kararı'), ('link', '20261030-9.pdf', 'Anayasa Mahkemesinin 16/9/2026 Tarihli ve 2024/68293 Başvuru Numaralı Kararı'), ('metin', 'İLÂN BÖLÜMÜ'), ('link', 'http://www.resmigazete.gov.tr/main.aspx?home=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261030.htm&main=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261030-2.htm', 'a - Yargı İlânları'), ('link', 'http://www.resmigazete.gov.tr/main.aspx?home=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261030.htm&main=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261030-3.htm', 'b - Artırma, Eksiltme ve İhale İlânları'), ('link', 'http://www.resmigazete.gov.tr/main.aspx?home=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261030.htm&main=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261030-4.htm', 'c - Çeşitli İlânlar'), ('link', 'http://www.resmigazete.gov.tr/main.aspx?home=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261030.htm&main=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261030-5.htm', 'T.C. Merkez Bankasınca Belirlenen Devlet İç Borçlanma Senetlerinin Günlük Değerleri'), ('metin', 'Resmî Gazete\'nin kurumsal mobil uygulaması Android ve Apple marketlerde "T.C. Resmî Gazete" adıyla yerini almıştır.')]
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="tr">
+<meta name="GENERATOR" content="Microsoft FrontPage 6.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1254">
+<title>T.C. Resmî Gazete</title>
+<style>
+<!--
+span.Normal1
+	{mso-style-parent:"";
+	font-family:Helvetica;
+	}
+ table.MsoNormalTable
+	{mso-style-parent:"";
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	}
+span.GramE
+	{}
+span.SpellE
+	{}
+-->
+</style>
+</head>
+
+<body>
+
+<table border="0" cellspacing="0" width="658" id="AutoNumber1" height="35" style="border-collapse: collapse" bordercolor="#111111" cellpadding="0">
+  <tr>
+    <td width="658" height="19" style="border-style: none; border-width: medium">
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=658
+ style='width:493.5pt;border-collapse:collapse;mso-padding-alt:0cm 0cm 0cm 0cm' id="table16">
+	<tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:27.0pt'>
+		<td width=555 style='width:416.25pt;background:#E6E6E6;padding:0cm 0cm 0cm 0cm;
+  height:27.0pt'>
+		<p align=center style='text-align:center' dir="ltr">
+		<span style="color: #3366CC"><b><span style="font-family: Arial">30 Ekim 2026</span></b></span><b><span style='font-size:10.0pt;
+  font-family:Arial;color:#3366CC'> Tarihli ve 33415 Sayılı Resmî
+  Gazete</span></b></p></td>
+		<td width=103 style='width:77.25pt;background:#E6E6E6;padding:0cm 0cm 0cm 0cm;
+  height:27.0pt' background="../../2010%20Resmi%20Gazeteleri/12%20ARALIK%20AYI%20RESMİ%20GAZETELERİ/02122010/index.gif">
+		<p align=center style='text-align:center'><b>
+		<span style='font-size:10.0pt;
+  font-family:Arial;color:#3366CC'>MEVZUAT</span></b></p></td>
+	</tr>
+	<tr style='mso-yfti-irow:1;mso-yfti-lastrow:yes;height:14.25pt'>
+		<td width=658 colspan=2 style='width:493.5pt;padding:0cm 0cm 0cm 0cm;
+  height:14.25pt'>
+	<table border="1" width="100%" id="table18" style="border-width: 0px" height="47">
+		<tr>
+			<td width="76" style="border-style: none; border-width: medium">
+			&nbsp;</td>
+			<td width="483" style="border-style: none; border-width: medium">
+			<p style="margin-top: 0; margin-bottom: 0" align="center">
+			<a href="20261030.pdf">
+			<img border="0" src="reader_128.jpg" width="40" height="42"></a></td>
+			<td style="border-style: none; border-width: medium">
+			<p align="right" style="text-indent: -20px; line-height: 16px; margin-left: 20px; margin-top: 0; margin-bottom: 0">&nbsp;</td>
+		</tr>
+	</table>
+		</td>
+	</tr>
+</table>
+<p class="MsoNormal" style="line-height: 16px; text-indent: -20px; margin-left: 20px; margin-top: 0; margin-bottom: 0">
+<span class="Normal1"><b><u><font face="Arial" size="2" color="#000080">YÜRÜTME 
+VE İDARE BÖLÜMÜ</font></u></b></span></p>
+<p class="MsoNormal" style="text-align: justify; line-height: 16px; text-indent: -20px; margin-left: 20px; margin-top: 0; margin-bottom: 0">&nbsp;</p>
+<p class="MsoN
+
+https://www.resmigazete.gov.tr/eskiler/2026/10/20261031.htm
+[('metin', '31 Ekim 2026'), ('metin', 'Tarihli ve 33416 Sayılı Resmî Gazete'), ('metin', 'MEVZUAT'), ('metin', 'YÜRÜTME VE İDARE BÖLÜMÜ'), ('metin', 'CUMHURBAŞKANLIĞI KARARNAMELERİ'), ('link', '20261031-10.pdf', 'Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinde Değişiklik Yapılmasına Dair Cumhurbaşkanlığı Kararnamesi (Kararname Numarası: 201)'), ('link', '20261031-11.pdf', 'Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar ile Diğer Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinde Değişiklik Yapılmasına Dair Cumhurbaşkanlığı Kararnamesi (Kararname Numarası: 202)'), ('link', '20261031-12.pdf', 'Siber Güvenlik Başkanlığı Hakkında Cumhurbaşkanlığı Kararnamesinde Değişiklik Yapılmasına Dair Cumhurbaşkanlığı Kararnamesi (Kararname Numarası: 203)'), ('metin', 'MİLLETLERARASI ANDLAŞMA'), ('link', '20261031-13.pdf', 'Türk Devletleri Teşkilatına Üye Devletlerin Hükümetleri Arasında Dijital Ekonomi Ortaklık Anlaşmasının Onaylanması Hakkında Karar (Karar Sayısı: 11935)'), ('metin', 'CUMHURBAŞKANI KARARLARI'), ('link', '20261031-14.pdf', 'Birleşmiş Milletler Güvenlik Konseyinin 1267 (1999), 1988 (2011), 1989 (2011) ve 2253 (2015) Sayılı Kararlarıyla Listelenen Kişi, Kuruluş veya Organizasyonların Tasarrufunda Bulunan Malvarlığının Dondurulması Hakkındaki 30/9/2013 Tarihli ve 2013/5428 Sayılı Bakanlar Kurulu Kararının Eki (1) Sayılı Listede Değişiklik Yapılmasına İlişkin Karar (Karar Sayısı: 11936)'), ('link', '20261031-15.pdf', 'I Sayılı Listede Belirtilen Fakülte ve Enstitülerin Kurulması, II Sayılı Listede Belirtilen Fakültelerin Adlarının Karşılarında Gösterildiği Şekilde Değiştirilmesi Hakkında Karar (Karar Sayısı: 11937)'), ('link', '20261031-16.pdf', 'Beşikdüzü-İskenderli-Tonya İl Yolu Projesi (Km:23+016.00-23+224.00 Arası) Kapsamında Araziye Girilerek Yol Yapım Çalışmalarının Tamamlanması Amacıyla Taşınmazlar ile Üzerlerindeki Müştemilatın Karayolları Genel Müdürlüğü Tarafından Acele Kamulaştırılması Hakkında Karar (Karar Sayısı: 11938)'), ('link', '20261031-17.pdf', 'Konya İli, Halkapınar İlçesine Doğal Gaz Arzının Sağlanabilmesi Amacıyla Kurulacak Dağıtım Tesislerinin Yapımı İçin Gerekli Olan Bazı Taşınmazların, Tapuda Hazine Lehine İrtifak Hakkı Tesis Edilmek Suretiyle Enerji Piyasası Düzenleme Kurumu Tarafından Acele Kamulaştırılması Hakkında Karar (Karar Sayısı: 11939)'), ('link', '20261031-18.pdf', 'Özelleştirme İdaresi Başkanlığı ile İlgili Kararlar (Karar Sayısı: 11940, 11941, 11942, 11943, 11944, 11945)'), ('metin', 'YÖNETMELİKLER'), ('link', '20261031-19.pdf', 'Aile ve Gençlik Fonu Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik (Karar Sayısı: 11946)'), ('link', '20261031-20.pdf', 'Kamu Kurum ve Kuruluşlarında Görevde Yükselme ve Unvan Değişikliği Esaslarına Dair Genel Yönetmelikte Değişiklik Yapılmasına İlişkin Yönetmelik (Karar Sayısı: 11947)'), ('link', '20261031-1.htm', 'Pan-Avrupa-Akdeniz Tercihli Menşe Kurallarına Dair Bölgesel Konvansiyon Ortak Komitesinin 1/2023 Sayılı Kararı Kapsamı Tercihli Menşe Kuralları Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik'), ('link', '20261031-2.htm', 'Organize Toptan Doğal Gaz Satış Piyasası Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik'), ('link', '20261031-3.htm', 'Türk Mühendis ve Mimar Odaları Birliği Bilirkişilik - Eksperlik - Hakemlik ve Teknik Müşavirlik Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik'), ('metin', 'TEBLİĞLER'), ('link', '20261031-4.htm', '2025-2027 Yıllarında Yapılacak Bitkisel Üretime Yönelik Desteklemeler ile Diğer Bazı Tarımsal Desteklemelere Ödeme Yapılmasına Dair Tebliğ (Tebliğ No: 2024/39)’de Değişiklik Yapılmasına İlişkin Tebliğ (No: 2026/30)'), ('link', '20261031-5.htm', 'Dağıtım Tarifesinin Düzenlenmesi Hakkında Tebliğde Değişiklik Yapılmasına Dair Tebliğ'), ('link', '20261031-6.htm', 'Türk Patent ve Marka Kurumunca 2026 Yılında Uygulanacak Ücret Tarifesine İlişkin Tebliğ (BİK/TÜRKPATENT: 2026/1)’de Değişiklik Yapılmasına Dair Tebliğ (BİK/TÜRKPATENT: 2026/2)'), ('metin', 'KURUL KARARLARI'), ('link', '20261031-7.pdf', 'Enerji Piyasası Düzenleme Kurulunun 15/10/2026 Tarihli ve 14958 Sayılı Kararı'), ('link', '20261031-8.pdf', 'Enerji Piyasası Düzenleme Kurulunun 15/10/2026 Tarihli ve 14959 Sayılı Kararı'), ('link', '20261031-9.pdf', 'Enerji Piyasası Düzenleme Kurulunun 30/10/2026 Tarihli ve 15005 Sayılı Kararı'), ('metin', 'İLÂN BÖLÜMÜ'), ('link', 'http://www.resmigazete.gov.tr/main.aspx?home=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261031.htm&main=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261031-2.htm', 'a - Yargı İlânları'), ('link', 'http://www.resmigazete.gov.tr/main.aspx?home=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261031.htm&main=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261031-3.htm', 'b - Artırma, Eksiltme ve İhale İlânları'), ('link', 'http://www.resmigazete.gov.tr/main.aspx?home=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261031.htm&main=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261031-4.htm', 'c - Çeşitli İlânlar'), ('link', 'http://www.resmigazete.gov.tr/main.aspx?home=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261031.htm&main=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261031-5.htm', 'T.C. Merkez Bankasınca Belirlenen Döviz Kurları ve Devlet İç Borçlanma Senetlerinin Günlük Değerleri'), ('metin', 'Resmî Gazete\'nin kurumsal mobil uygulaması Android ve Apple marketlerde "T.C. Resmî Gazete" adıyla yerini almıştır.')]
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="tr">
+<meta name="GENERATOR" content="Microsoft FrontPage 6.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1254">
+<title>T.C. Resmî Gazete</title>
+<style>
+<!--
+span.Normal1
+	{mso-style-parent:"";
+	font-family:Helvetica;
+	}
+ table.MsoNormalTable
+	{mso-style-parent:"";
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	}
+span.GramE
+	{}
+span.SpellE
+	{}
+-->
+</style>
+</head>
+
+<body>
+
+<table border="0" cellspacing="0" width="658" id="AutoNumber1" height="35" style="border-collapse: collapse" bordercolor="#111111" cellpadding="0">
+  <tr>
+    <td width="658" height="19" style="border-style: none; border-width: medium">
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=658
+ style='width:493.5pt;border-collapse:collapse;mso-padding-alt:0cm 0cm 0cm 0cm' id="table16">
+	<tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:27.0pt'>
+		<td width=555 style='width:416.25pt;background:#E6E6E6;padding:0cm 0cm 0cm 0cm;
+  height:27.0pt'>
+		<p align=center style='text-align:center' dir="ltr">
+		<span style="color: #3366CC"><b><span style="font-family: Arial">31 Ekim 2026</span></b></span><b><span style='font-size:10.0pt;
+  font-family:Arial;color:#3366CC'> Tarihli ve 33416 Sayılı Resmî
+  Gazete</span></b></p></td>
+		<td width=103 style='width:77.25pt;background:#E6E6E6;padding:0cm 0cm 0cm 0cm;
+  height:27.0pt' background="../../2010%20Resmi%20Gazeteleri/12%20ARALIK%20AYI%20RESMİ%20GAZETELERİ/02122010/index.gif">
+		<p align=center style='text-align:center'><b>
+		<span style='font-size:10.0pt;
+  font-family:Arial;color:#3366CC'>MEVZUAT</span></b></p></td>
+	</tr>
+	<tr style='mso-yfti-irow:1;mso-yfti-lastrow:yes;height:14.25pt'>
+		<td width=658 colspan=2 style='width:493.5pt;padding:0cm 0cm 0cm 0cm;
+  height:14.25pt'>
+	<table border="1" width="100%" id="table18" style="border-width: 0px" height="47">
+		<tr>
+			<td width="76" style="border-style: none; border-width: medium">
+			&nbsp;</td>
+			<td width="483" style="border-style: none; border-width: medium">
+			<p style="margin-top: 0; margin-bottom: 0" align="center">
+			<a href="20261031.pdf">
+			<img border="0" src="reader_128.jpg" width="40" height="42"></a></td>
+			<td style="border-style: none; border-width: medium">
+			<p align="right">&nbsp;</td>
+		</tr>
+	</table>
+		</td>
+	</tr>
+</table>
+<p class="MsoNormal" style="line-height: 16px; text-indent: -20px; margin-left: 20px; margin-top: 0; margin-bottom: 0">
+<span class="Normal1"><b><u><font face="Arial" size="2" color="#000080">YÜRÜTME 
+VE İDARE BÖLÜMÜ</font></u></b></span></p>
+<p class="MsoNormal" style="text-align: justify; text-indent: -20px; line-height: 16px; margin-left: 20px; margin-top: 0; margin-bottom: 0">&nbsp;</p>
+<p class="MsoNormal" style="text-align: justify; text-indent: -20px; line-height: 16px; margin-left: 20px; margi
+
