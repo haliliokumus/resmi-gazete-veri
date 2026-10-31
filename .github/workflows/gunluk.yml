@@ -1,0 +1,51 @@
+name: Resmî Gazete günlük
+
+on:
+  schedule:
+    # Türkiye saatiyle 00:17 (gece yayımlanan sayı) ve 07:47 (mükerrer/yeniden deneme)
+    - cron: "17 21 * * *"
+    - cron: "47 4 * * *"
+  workflow_dispatch:
+    inputs:
+      tarih:
+        description: "Tarih (YYYY-MM-DD). Boş bırakılırsa bugün ve dün."
+        required: false
+  push:
+    branches: [main]
+    paths: ["rg.py", ".github/workflows/gunluk.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: rg
+  cancel-in-progress: false
+
+jobs:
+  cek:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Çek
+        env:
+          TARIH: ${{ github.event.inputs.tarih }}
+        run: |
+          if [ -n "$TARIH" ]; then
+            python rg.py "$TARIH"
+          else
+            DUN=$(TZ=Europe/Istanbul date -d yesterday +%F)
+            python rg.py "$DUN" || echo "Dünkü sayı alınamadı, devam ediliyor"
+            python rg.py
+          fi
+      - name: Kaydet
+        run: |
+          git config user.name "rg-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add veri
+          if git diff --cached --quiet; then echo "Değişiklik yok"; exit 0; fi
+          git commit -m "Resmî Gazete $(TZ=Europe/Istanbul date +%F)"
+          git push
