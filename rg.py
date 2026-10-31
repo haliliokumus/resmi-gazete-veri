@@ -122,7 +122,8 @@ def ayristir(html, taban):
     p.feed(html)
     p.close()
     if os.environ.get("RG_DEBUG"):
-        print([o for o in p.olaylar if "ay" in o[-1].lower()][:8])
+        with open("veri/_debug.txt", "a", encoding="utf-8") as f:
+            f.write(taban + "\n" + repr(p.olaylar[:40]) + "\n" + html[:3000] + "\n\n")
     bolumler, bolum, grup, sayi = [], None, None, None
     for o in p.olaylar:
         if o[0] == "metin":
