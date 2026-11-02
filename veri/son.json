@@ -1,45 +1,78 @@
 {
- "tarih": "2026-11-02",
- "tarih_metin": "2 Kasım 2026",
- "sayi": 33418,
- "kaynak": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261102.htm",
- "pdf": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261102.pdf",
+ "tarih": "2026-11-03",
+ "tarih_metin": "3 Kasım 2026",
+ "sayi": 33419,
+ "kaynak": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261103.htm",
+ "pdf": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261103.pdf",
  "bolumler": [
   {
    "ad": "Yürütme ve İdare Bölümü",
    "gruplar": [
     {
-     "ad": "Diğer",
+     "ad": "Yönetmelik",
      "maddeler": [
       {
-       "baslik": "Cumhurbaşkanlığına, Cumhurbaşkanı Yardımcısı Cevdet YILMAZ’ın Vekâlet Etmesine Dair Tezkere",
-       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261102-1.pdf"
+       "baslik": "Ormancılık Faaliyetlerinde Vahidi Fiyatla Çalışan Orman Köylülerine Yapılacak Ayni veya Nakdi Dağıtımın Uygulamasına Dair Yönetmelik",
+       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261103-1.htm"
       }
      ]
     },
     {
-     "ad": "Yönetmelikler",
+     "ad": "Tebliğler",
      "maddeler": [
       {
-       "baslik": "Eskişehir Osmangazi Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
-       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261102-2.htm"
+       "baslik": "Özelleştirme İdaresi Başkanlığının 30/10/2026 Tarihli ve 2026/ÖİB-K-46 Sayılı Kararı",
+       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261103-2.pdf"
       },
       {
-       "baslik": "İstanbul Kültür Üniversitesi Geomatik Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
-       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261102-3.htm"
+       "baslik": "Avukatlık Asgari Ücret Tarifesi",
+       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261103-3.htm"
+      }
+     ]
+    },
+    {
+     "ad": "İlke Kararları",
+     "maddeler": [
+      {
+       "baslik": "Mevcut Teknik Altyapı Tesislerinin Bakımına, Onarımına, İyileştirilmesine ve İzin Süresi Uzatımlarına İlişkin İlke Kararı (No: 151)",
+       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261103-4.pdf"
       },
       {
-       "baslik": "İzmir Yüksek Teknoloji Enstitüsü Biyoteknoloji ve Biyomühendislik Uygulama ve Araştırma Merkezi Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
-       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261102-4.htm"
+       "baslik": "Doğal Sit Tescili Öncesi Mera Vasfı Bulunan Alanların Kullanımına İlişkin İlke Kararı (No: 152)",
+       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261103-5.pdf"
       },
       {
-       "baslik": "Sivas Cumhuriyet Üniversitesi Tıp Fakültesi Eğitim-Öğretim ve Sınav Yönetmeliği",
-       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261102-5.htm"
+       "baslik": "Tarımsal Amaçlı Ağaç Dikim Çukuru Açılmasına İlişkin İlke Kararı (No: 153)",
+       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261103-6.pdf"
+      },
+      {
+       "baslik": "Sportif Amaçlı Parkur İlanları ve Faaliyetlerine İlişkin İlke Kararı (No: 154)",
+       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261103-7.pdf"
+      },
+      {
+       "baslik": "Ulaşım Amaçlı Havai Hatlara İlişkin İlke Kararı (No: 155)",
+       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261103-8.pdf"
+      },
+      {
+       "baslik": "Nitelikli Doğal Koruma Alanlarında Şehitlik veya Mezarlık Alanlarına Yönelik İlke Kararı (No: 156)",
+       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261103-9.pdf"
+      },
+      {
+       "baslik": "Nitelikli Doğal Koruma Alanlarında Rüzgar Enerji Santrali (RES) Projelerinin Gerçekleştirilmesine Yönelik İlke Kararı (No: 157)",
+       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261103-10.pdf"
+      },
+      {
+       "baslik": "Nitelikli Doğal Koruma Alanlarında Hidroelektrik Santrali (HES) Projelerinin Gerçekleştirilmesine Yönelik İlke Kararı (No: 158)",
+       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261103-11.pdf"
+      },
+      {
+       "baslik": "Sürdürülebilir Koruma ve Kontrollü Kullanım Alanlarında Hidroelektrik Santrali (HES) Projelerinin Gerçekleştirilmesine Yönelik İlke Kararı (No: 159)",
+       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261103-12.pdf"
       }
      ]
     }
    ]
   }
  ],
- "guncellendi": "2026-11-02T08:39+03:00"
+ "guncellendi": "2026-11-03T00:50+03:00"
 }
