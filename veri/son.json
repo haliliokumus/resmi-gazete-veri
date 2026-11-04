@@ -1,19 +1,23 @@
 {
- "tarih": "2026-11-04",
- "tarih_metin": "4 Kasım 2026",
- "sayi": 33420,
- "kaynak": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261104.htm",
- "pdf": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261104.pdf",
+ "tarih": "2026-11-05",
+ "tarih_metin": "5 Kasım 2026",
+ "sayi": 33421,
+ "kaynak": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261105.htm",
+ "pdf": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261105.pdf",
  "bolumler": [
   {
    "ad": "Yürütme ve İdare Bölümü",
    "gruplar": [
     {
-     "ad": "Yönetmelik",
+     "ad": "Yönetmelikler",
      "maddeler": [
       {
-       "baslik": "İstanbul Üniversitesi İnsan Hakları Hukuku Uygulama ve Araştırma Merkezi Yönetmeliği",
-       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261104-1.htm"
+       "baslik": "Haberleşme, Seyrüsefer ve Gözetim Sistemleri Mânia Kriterleri Hakkında Yönetmelik (SHY-CNS/MÂNİA)",
+       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261105-1.htm"
+      },
+      {
+       "baslik": "Türk Mühendis ve Mimar Odaları Birliği Harita ve Kadastro Mühendisleri Odası Eğitim ve Belgelendirme Merkezi Yönetmeliği",
+       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261105-2.htm"
       }
      ]
     },
@@ -21,47 +25,13 @@
      "ad": "Kurul Kararı",
      "maddeler": [
       {
-       "baslik": "Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurulunun 30/10/2026 Tarihli ve 75935942-050.01.04-[01/47201] Sayılı Kararı",
-       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261104-2.pdf"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "ad": "Yargı Bölümü",
-   "gruplar": [
-    {
-     "ad": "Anayasa Mahkemesi Kararları",
-     "maddeler": [
-      {
-       "baslik": "Anayasa Mahkemesinin 21/4/2026 Tarihli ve 2022/92607 Başvuru Numaralı Kararı",
-       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261104-3.pdf"
-      },
-      {
-       "baslik": "Anayasa Mahkemesinin 5/5/2026 Tarihli ve 2020/22340 Başvuru Numaralı Kararı",
-       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261104-4.pdf"
-      },
-      {
-       "baslik": "Anayasa Mahkemesinin 5/5/2026 Tarihli ve 2021/6977 Başvuru Numaralı Kararı",
-       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261104-5.pdf"
-      },
-      {
-       "baslik": "Anayasa Mahkemesinin 17/6/2026 Tarihli ve 2023/4554 Başvuru Numaralı Kararı",
-       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261104-6.pdf"
-      },
-      {
-       "baslik": "Anayasa Mahkemesinin 18/6/2026 Tarihli ve 2021/8412 Başvuru Numaralı Kararı",
-       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261104-7.pdf"
-      },
-      {
-       "baslik": "Anayasa Mahkemesinin 18/6/2026 Tarihli ve 2021/42538 Başvuru Numaralı Kararı",
-       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261104-8.pdf"
+       "baslik": "Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurulunun 30/10/2026 Tarihli ve 75935942-050.01.04-[01/47239] Sayılı Kararı",
+       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261105-3.pdf"
       }
      ]
     }
    ]
   }
  ],
- "guncellendi": "2026-11-04T08:37+03:00"
+ "guncellendi": "2026-11-05T00:54+03:00"
 }
