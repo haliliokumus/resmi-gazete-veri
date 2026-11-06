@@ -1,23 +1,44 @@
 {
- "tarih": "2026-11-06",
- "tarih_metin": "6 Kasım 2026",
- "sayi": 33422,
- "kaynak": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261106.htm",
- "pdf": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261106.pdf",
+ "tarih": "2026-11-07",
+ "tarih_metin": "7 Kasım 2026",
+ "sayi": 33423,
+ "kaynak": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261107.htm",
+ "pdf": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261107.pdf",
  "bolumler": [
   {
    "ad": "Yürütme ve İdare Bölümü",
    "gruplar": [
     {
+     "ad": "Atama Kararları",
+     "maddeler": [
+      {
+       "baslik": "Cumhurbaşkanlığı Tarafından Yapılan Atamalar Hakkında Kararlar (Karar: 2026/378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388)",
+       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261107-1.pdf"
+      }
+     ]
+    },
+    {
      "ad": "Yönetmelikler",
      "maddeler": [
       {
-       "baslik": "Organize Sanayi Bölgeleri Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
-       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261106-1.htm"
+       "baslik": "Aile Danışma Merkezleri Yönetmeliği",
+       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261107-2.htm"
       },
       {
-       "baslik": "İnönü Üniversitesi Türkçe Öğretimi Uygulama ve Araştırma Merkezi Yönetmeliği",
-       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261106-2.htm"
+       "baslik": "Çevresel Etki Değerlendirmesi Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261107-3.htm"
+      },
+      {
+       "baslik": "Sığır Karkasının Sınıflandırılmasına Dair Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261107-4.htm"
+      },
+      {
+       "baslik": "Türk Mühendis ve Mimar Odaları Birliği Metalurji ve Malzeme Mühendisleri Odası Ana Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261107-5.htm"
+      },
+      {
+       "baslik": "Türk Mühendis ve Mimar Odaları Birliği Meteoroloji Mühendisleri Odası Ana Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261107-6.htm"
       }
      ]
     },
@@ -25,39 +46,13 @@
      "ad": "Kurul Kararı",
      "maddeler": [
       {
-       "baslik": "Bankacılık Düzenleme ve Denetleme Kurulunun 04/11/2026 Tarihli ve 11593 Sayılı Kararı",
-       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261106-3.pdf"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "ad": "Yargı Bölümü",
-   "gruplar": [
-    {
-     "ad": "Anayasa Mahkemesi Kararları",
-     "maddeler": [
-      {
-       "baslik": "Anayasa Mahkemesinin 16/7/2026 Tarihli ve E: 2026/23, K: 2026/162 Sayılı Kararı",
-       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261106-4.pdf"
-      },
-      {
-       "baslik": "Anayasa Mahkemesinin 30/4/2026 Tarihli ve 2021/29667 Başvuru Numaralı Kararı",
-       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261106-5.pdf"
-      },
-      {
-       "baslik": "Anayasa Mahkemesinin 30/4/2026 Tarihli ve 2022/103359 Başvuru Numaralı Kararı",
-       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261106-6.pdf"
-      },
-      {
-       "baslik": "Anayasa Mahkemesinin 11/6/2026 Tarihli ve 2019/18263 Başvuru Numaralı Kararı",
-       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261106-7.pdf"
+       "baslik": "Enerji Piyasası Düzenleme Kurulunun 04/11/2026 Tarihli ve 15024 Sayılı Kararı",
+       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261107-7.pdf"
       }
      ]
     }
    ]
   }
  ],
- "guncellendi": "2026-11-06T08:38+03:00"
+ "guncellendi": "2026-11-07T00:47+03:00"
 }
