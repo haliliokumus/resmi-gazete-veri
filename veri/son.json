@@ -1,19 +1,19 @@
 {
- "tarih": "2026-11-07",
- "tarih_metin": "7 Kasım 2026",
- "sayi": 33423,
- "kaynak": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261107.htm",
- "pdf": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261107.pdf",
+ "tarih": "2026-11-08",
+ "tarih_metin": "8 Kasım 2026",
+ "sayi": 33424,
+ "kaynak": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261108.htm",
+ "pdf": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261108.pdf",
  "bolumler": [
   {
    "ad": "Yürütme ve İdare Bölümü",
    "gruplar": [
     {
-     "ad": "Atama Kararları",
+     "ad": "Diğer",
      "maddeler": [
       {
-       "baslik": "Cumhurbaşkanlığı Tarafından Yapılan Atamalar Hakkında Kararlar (Karar: 2026/378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388)",
-       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261107-1.pdf"
+       "baslik": "Cumhurbaşkanlığına, Cumhurbaşkanı Yardımcısı Cevdet YILMAZ’ın Vekâlet Etmesine Dair Tezkere",
+       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261108-1.pdf"
       }
      ]
     },
@@ -21,38 +21,31 @@
      "ad": "Yönetmelikler",
      "maddeler": [
       {
-       "baslik": "Aile Danışma Merkezleri Yönetmeliği",
-       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261107-2.htm"
+       "baslik": "Bahçeşehir Üniversitesi Sporda Yenilikçilik Uygulama ve Araştırma Merkezi Yönetmeliği",
+       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261108-2.htm"
       },
       {
-       "baslik": "Çevresel Etki Değerlendirmesi Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
-       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261107-3.htm"
-      },
-      {
-       "baslik": "Sığır Karkasının Sınıflandırılmasına Dair Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
-       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261107-4.htm"
-      },
-      {
-       "baslik": "Türk Mühendis ve Mimar Odaları Birliği Metalurji ve Malzeme Mühendisleri Odası Ana Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
-       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261107-5.htm"
-      },
-      {
-       "baslik": "Türk Mühendis ve Mimar Odaları Birliği Meteoroloji Mühendisleri Odası Ana Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
-       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261107-6.htm"
+       "baslik": "Bahçeşehir Üniversitesi Türk Müziği Uygulama ve Araştırma Merkezi Yönetmeliği",
+       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261108-3.htm"
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "ad": "Yargı Bölümü",
+   "gruplar": [
     {
-     "ad": "Kurul Kararı",
+     "ad": "Uyuşmazlık Mahkemesi Kararları",
      "maddeler": [
       {
-       "baslik": "Enerji Piyasası Düzenleme Kurulunun 04/11/2026 Tarihli ve 15024 Sayılı Kararı",
-       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261107-7.pdf"
+       "baslik": "Uyuşmazlık Mahkemesine Ait Kararlar",
+       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261108-4.pdf"
       }
      ]
     }
    ]
   }
  ],
- "guncellendi": "2026-11-07T08:27+03:00"
+ "guncellendi": "2026-11-08T00:44+03:00"
 }
