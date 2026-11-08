@@ -1,51 +1,40 @@
 {
- "tarih": "2026-11-08",
- "tarih_metin": "8 Kasım 2026",
- "sayi": 33424,
- "kaynak": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261108.htm",
- "pdf": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261108.pdf",
+ "tarih": "2026-11-09",
+ "tarih_metin": "9 Kasım 2026",
+ "sayi": 33425,
+ "kaynak": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261109.htm",
+ "pdf": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261109.pdf",
  "bolumler": [
   {
    "ad": "Yürütme ve İdare Bölümü",
    "gruplar": [
     {
-     "ad": "Diğer",
-     "maddeler": [
-      {
-       "baslik": "Cumhurbaşkanlığına, Cumhurbaşkanı Yardımcısı Cevdet YILMAZ’ın Vekâlet Etmesine Dair Tezkere",
-       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261108-1.pdf"
-      }
-     ]
-    },
-    {
      "ad": "Yönetmelikler",
      "maddeler": [
       {
-       "baslik": "Bahçeşehir Üniversitesi Sporda Yenilikçilik Uygulama ve Araştırma Merkezi Yönetmeliği",
-       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261108-2.htm"
+       "baslik": "İstanbul Bilgi Üniversitesi Fikrî Mülkiyet Hukuku Uygulama ve Araştırma Merkezi Yönetmeliği",
+       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261109-1.htm"
       },
       {
-       "baslik": "Bahçeşehir Üniversitesi Türk Müziği Uygulama ve Araştırma Merkezi Yönetmeliği",
-       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261108-3.htm"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "ad": "Yargı Bölümü",
-   "gruplar": [
-    {
-     "ad": "Uyuşmazlık Mahkemesi Kararları",
-     "maddeler": [
+       "baslik": "İstanbul Bilgi Üniversitesi Kültür Politikaları ve Yönetimi Uygulama ve Araştırma Merkezi Yönetmeliği",
+       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261109-2.htm"
+      },
       {
-       "baslik": "Uyuşmazlık Mahkemesine Ait Kararlar",
-       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261108-4.pdf"
+       "baslik": "İstanbul Bilgi Üniversitesi Rekabet Hukuku ve Politikası Uygulama ve Araştırma Merkezi Yönetmeliği",
+       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261109-3.htm"
+      },
+      {
+       "baslik": "İstanbul Bilgi Üniversitesi Uluslararası Ticaret ve Tahkim Hukuku Uygulama ve Araştırma Merkezi Yönetmeliği",
+       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261109-4.htm"
+      },
+      {
+       "baslik": "İstanbul Üniversitesi Sürekli Eğitim Uygulama ve Araştırma Merkezi Yönetmeliği",
+       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261109-5.htm"
       }
      ]
     }
    ]
   }
  ],
- "guncellendi": "2026-11-08T08:29+03:00"
+ "guncellendi": "2026-11-09T00:44+03:00"
 }
