@@ -1,40 +1,63 @@
 {
- "tarih": "2026-11-09",
- "tarih_metin": "9 Kasım 2026",
- "sayi": 33425,
- "kaynak": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261109.htm",
- "pdf": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261109.pdf",
+ "tarih": "2026-11-10",
+ "tarih_metin": "10 Kasım 2026",
+ "sayi": 33426,
+ "kaynak": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261110.htm",
+ "pdf": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261110.pdf",
  "bolumler": [
   {
    "ad": "Yürütme ve İdare Bölümü",
    "gruplar": [
     {
+     "ad": "Diğer",
+     "maddeler": [
+      {
+       "baslik": "Hâkimler ve Savcılar Kuruluna Ait Kararlar",
+       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261110-1.pdf"
+      }
+     ]
+    },
+    {
      "ad": "Yönetmelikler",
      "maddeler": [
       {
-       "baslik": "İstanbul Bilgi Üniversitesi Fikrî Mülkiyet Hukuku Uygulama ve Araştırma Merkezi Yönetmeliği",
-       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261109-1.htm"
+       "baslik": "Gençlik ve Spor Bakanlığı Yurt Hizmetleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261110-2.htm"
       },
       {
-       "baslik": "İstanbul Bilgi Üniversitesi Kültür Politikaları ve Yönetimi Uygulama ve Araştırma Merkezi Yönetmeliği",
-       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261109-2.htm"
+       "baslik": "İller Bankası Anonim Şirketi İnsan Kaynakları Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261110-3.htm"
       },
       {
-       "baslik": "İstanbul Bilgi Üniversitesi Rekabet Hukuku ve Politikası Uygulama ve Araştırma Merkezi Yönetmeliği",
-       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261109-3.htm"
+       "baslik": "Türkiye Sağlık Enstitüleri Başkanlığı Bünyesinde Oluşturulacak Bilim Kurulları Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261110-4.htm"
+      }
+     ]
+    },
+    {
+     "ad": "Genelge",
+     "maddeler": [
+      {
+       "baslik": "Yeşil Mutabakat Eylem Planı (2026-2030) ile İlgili 2026/12 Sayılı Cumhurbaşkanlığı Genelgesi",
+       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261110-5.pdf"
+      }
+     ]
+    },
+    {
+     "ad": "Tebliğler",
+     "maddeler": [
+      {
+       "baslik": "Vergi Usul Kanunu Genel Tebliği (Sıra No: 597)",
+       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261110-6.htm"
       },
       {
-       "baslik": "İstanbul Bilgi Üniversitesi Uluslararası Ticaret ve Tahkim Hukuku Uygulama ve Araştırma Merkezi Yönetmeliği",
-       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261109-4.htm"
-      },
-      {
-       "baslik": "İstanbul Üniversitesi Sürekli Eğitim Uygulama ve Araştırma Merkezi Yönetmeliği",
-       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261109-5.htm"
+       "baslik": "Türk Gıda Kodeksi Peynir Tebliği (No: 2026/24)",
+       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261110-7.htm"
       }
      ]
     }
    ]
   }
  ],
- "guncellendi": "2026-11-09T08:39+03:00"
+ "guncellendi": "2026-11-10T00:54+03:00"
 }
