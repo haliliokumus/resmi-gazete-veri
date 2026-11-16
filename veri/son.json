@@ -1,9 +1,9 @@
 {
- "tarih": "2026-11-16",
- "tarih_metin": "16 Kasım 2026",
- "sayi": 33432,
- "kaynak": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261116.htm",
- "pdf": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261116.pdf",
+ "tarih": "2026-11-17",
+ "tarih_metin": "17 Kasım 2026",
+ "sayi": 33433,
+ "kaynak": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261117.htm",
+ "pdf": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261117.pdf",
  "bolumler": [
   {
    "ad": "Yürütme ve İdare Bölümü",
@@ -12,25 +12,31 @@
      "ad": "Yönetmelikler",
      "maddeler": [
       {
-       "baslik": "Atılım Üniversitesi Ana Yönetmeliği",
-       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261116-1.htm"
+       "baslik": "Adli Tıp Kurumu Personeli Görevde Yükselme ve Unvan Değişikliği Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261117-1.htm"
       },
       {
-       "baslik": "Atılım Üniversitesi Lisansüstü Eğitim-Öğretim Yönetmeliği",
-       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261116-2.htm"
-      },
+       "baslik": "İstanbul Üniversitesi Bitki ve Bitkisel Ürünler Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261117-2.htm"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "ad": "Yargı Bölümü",
+   "gruplar": [
+    {
+     "ad": "Anayasa Mahkemesi Kararı",
+     "maddeler": [
       {
-       "baslik": "Karadeniz Teknik Üniversitesi Lisansüstü Eğitim-Öğretim Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
-       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261116-3.htm"
-      },
-      {
-       "baslik": "Karadeniz Teknik Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim Yönetmeliği",
-       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261116-4.htm"
+       "baslik": "Anayasa Mahkemesinin 16/7/2026 Tarihli ve E: 2025/144, K: 2026/164 Sayılı Kararı",
+       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261117-3.pdf"
       }
      ]
     }
    ]
   }
  ],
- "guncellendi": "2026-11-16T08:55+03:00"
+ "guncellendi": "2026-11-17T00:56+03:00"
 }
