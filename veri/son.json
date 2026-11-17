@@ -1,42 +1,59 @@
 {
- "tarih": "2026-11-17",
- "tarih_metin": "17 Kasım 2026",
- "sayi": 33433,
- "kaynak": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261117.htm",
- "pdf": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261117.pdf",
+ "tarih": "2026-11-18",
+ "tarih_metin": "18 Kasım 2026",
+ "sayi": 33434,
+ "kaynak": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261118.htm",
+ "pdf": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261118.pdf",
  "bolumler": [
   {
    "ad": "Yürütme ve İdare Bölümü",
    "gruplar": [
     {
-     "ad": "Yönetmelikler",
+     "ad": "Cumhurbaşkanı Kararları",
      "maddeler": [
       {
-       "baslik": "Adli Tıp Kurumu Personeli Görevde Yükselme ve Unvan Değişikliği Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
-       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261117-1.htm"
+       "baslik": "Bazı Anlaşmaların Yürürlüğe Girdiği Tarihlerin Tespit Edilmesi Hakkında Karar (Karar Sayısı: 11992)",
+       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261118-1.pdf"
       },
       {
-       "baslik": "İstanbul Üniversitesi Bitki ve Bitkisel Ürünler Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
-       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261117-2.htm"
+       "baslik": "Osmaniye Zorkun Yaylası Yaban Hayatı Geliştirme Sahasının Sınırlarının Değiştirilmesi Hakkında Karar (Karar Sayısı: 11993)",
+       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261118-2.pdf"
+      },
+      {
+       "baslik": "Yabancı Yatırımcılara Düzenlenecek İkamet İzinlerine Dair Karar (Karar Sayısı: 11994)",
+       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261118-3.pdf"
       }
      ]
-    }
-   ]
-  },
-  {
-   "ad": "Yargı Bölümü",
-   "gruplar": [
+    },
     {
-     "ad": "Anayasa Mahkemesi Kararı",
+     "ad": "Yönetmelik",
      "maddeler": [
       {
-       "baslik": "Anayasa Mahkemesinin 16/7/2026 Tarihli ve E: 2025/144, K: 2026/164 Sayılı Kararı",
-       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261117-3.pdf"
+       "baslik": "Harran Üniversitesi Elektrikli Araç Eğitim Uygulama ve Araştırma Merkezi Yönetmeliği",
+       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261118-4.htm"
+      }
+     ]
+    },
+    {
+     "ad": "Tebliğ",
+     "maddeler": [
+      {
+       "baslik": "İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (No: 2026/32)",
+       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261118-5.htm"
+      }
+     ]
+    },
+    {
+     "ad": "Kurul Kararı",
+     "maddeler": [
+      {
+       "baslik": "Bankacılık Düzenleme ve Denetleme Kurulunun 17/11/2026 Tarihli ve 11601 Sayılı Kararı",
+       "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261118-6.pdf"
       }
      ]
     }
    ]
   }
  ],
- "guncellendi": "2026-11-17T08:39+03:00"
+ "guncellendi": "2026-11-18T00:59+03:00"
 }
