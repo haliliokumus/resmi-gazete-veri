@@ -1,5 +1,10 @@
 [
  {
+  "tarih": "2026-11-23",
+  "tarih_metin": "23 Kasım 2026",
+  "sayi": 33439
+ },
+ {
   "tarih": "2026-11-22",
   "tarih_metin": "22 Kasım 2026",
   "sayi": 33438
@@ -143,10 +148,5 @@
   "tarih": "2026-10-24",
   "tarih_metin": "24 Ekim 2026",
   "sayi": 33410
- },
- {
-  "tarih": "2026-10-23",
-  "tarih_metin": "23 Ekim 2026",
-  "sayi": 33409
  }
 ]
